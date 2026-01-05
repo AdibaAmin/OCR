@@ -1,4 +1,4 @@
-# Invoice Reader App
+# Extraction using Ocr App
 
 A modern web application that extracts structured data from invoice images using OCR (Optical Character Recognition) and AI-powered text analysis.
 
