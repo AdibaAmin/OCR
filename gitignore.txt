@@ -1,0 +1,19 @@
+myenv/
+static/
+templates/
+uploads/
+.vscode/
+__pycache__/
+
+.env
+app.py
+app0.py
+fast_app.py
+main.py
+new.py
+passive income ideas.png
+practice.py
+redditPersona.ipynb
+run.py
+Untitled5.ipynb
+readme.md
