@@ -53,17 +53,17 @@ A modern web application that extracts structured data from invoice images using
 
 1. **Start the application**:
    ```bash
-   python invoice.py
+   python agreement.py
    ```
 
 2. **Open your browser** and go to `http://localhost:5000`
 
-3. **Upload an invoice image**:
+3. **Upload an agreement image**:
    - Drag and drop an image file onto the upload area
    - Or click the upload area to browse and select a file
 
 4. **Extract data**:
-   - Click the "Extract Invoice Data" button
+   - Click the "Extract Data" button
    - Wait for processing (this may take a few moments)
    - View the structured JSON output
 
@@ -116,16 +116,8 @@ The application returns structured JSON data containing:
 - Ensure text in the image is clear and not blurry
 - For large images, consider resizing them before upload
 
-## Security Notes
 
-- The API key is currently hardcoded in the application
-- For production use, consider using environment variables
-- Never commit API keys to version control
 
-## License
 
-This project is for educational and personal use. Please ensure you comply with Google's API terms of service.
 
-## Contributing
 
-Feel free to submit issues and enhancement requests! 
