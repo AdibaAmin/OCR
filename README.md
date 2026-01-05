@@ -84,14 +84,13 @@ A modern web application that extracts structured data from invoice images using
 ## Output Format
 
 The application returns structured JSON data containing:
-- Invoice number
+- Ref number
 - Date
 - Vendor information
 - Customer information
 - Line items
 - Totals
-- Tax information
-- And other relevant invoice fields
+- And other relevant agreement fields
 
 ## Troubleshooting
 
